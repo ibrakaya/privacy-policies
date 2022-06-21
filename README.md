@@ -1,2 +1,2 @@
 # privacy-policies
- This file inclueds privacy policies of builded apps
+ This file includes privacy policies of published apps
